@@ -47,15 +47,14 @@ const data = [
   {
     category: 'Segmento',
     data: segmento
-  },
-
+  }
 ];
 
 export default function PlaygroundPage() {
   const ParticipacaoVerticalInsights =
     getParticipacaoVerticalInsights(companyData);
   const EsperaVerticalInsights = getEsperaVerticalInsights(companyData);
-  console.log(getTipoEmpresaInsights(companyData));
+
   return (
     <main className="p-4 md:p-10 mx-auto max-w-7xl">
       <Grid numItemsSm={2} numItemsLg={2} className="gap-6">
@@ -66,9 +65,7 @@ export default function PlaygroundPage() {
               justifyContent="start"
               alignItems="baseline"
               className="space-x-2"
-            >
-              
-            </Flex>
+            ></Flex>
             <Flex className="mt-6">
               <Text>Categoria</Text>
               <Text className="text-right">Quantidade</Text>
@@ -80,7 +77,7 @@ export default function PlaygroundPage() {
               }
               className="mt-2"
             />
-            <div className='mt-5'>
+            <div className="mt-5">
               {item.withPie ? (
                 <DonutChart data={item.data} variant="pie" />
               ) : null}
