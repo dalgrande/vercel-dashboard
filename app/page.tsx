@@ -1,15 +1,27 @@
 'use client';
 
-import { Card, Metric, Text, Title, BarList, Flex, Grid } from '@tremor/react';
+import {
+  Card,
+  Metric,
+  Text,
+  Title,
+  BarList,
+  Flex,
+  Grid,
+  DonutChart
+} from '@tremor/react';
 import Chart from './chart';
+import companyData from './data/data.json';
+import {
+  getEsperaVerticalInsights,
+  getParticipacaoVerticalInsights,
+  getPautasConhecimentoInsights,
+  getSegmentosInsights,
+  getTipoEmpresaInsights
+} from './util/insightFunctions';
 
-const website = [
-  { name: '/home', value: 1230 },
-  { name: '/contact', value: 751 },
-  { name: '/gallery', value: 471 },
-  { name: '/august-discount-offer', value: 280 },
-  { name: '/case-studies', value: 78 }
-];
+const empresas = getTipoEmpresaInsights(companyData);
+const segmento = getSegmentosInsights(companyData);
 
 const shop = [
   { name: '/home', value: 453 },
@@ -28,26 +40,25 @@ const app = [
 
 const data = [
   {
-    category: 'Website',
-    stat: '10,234',
-    data: website
+    category: 'Tipo de Empresa',
+    data: empresas,
+    withPie: true
   },
   {
-    category: 'Online Shop',
-    stat: '12,543',
-    data: shop
+    category: 'Segmento',
+    data: segmento
   },
-  {
-    category: 'Mobile App',
-    stat: '2,543',
-    data: app
-  }
+
 ];
 
 export default function PlaygroundPage() {
+  const ParticipacaoVerticalInsights =
+    getParticipacaoVerticalInsights(companyData);
+  const EsperaVerticalInsights = getEsperaVerticalInsights(companyData);
+  console.log(getTipoEmpresaInsights(companyData));
   return (
     <main className="p-4 md:p-10 mx-auto max-w-7xl">
-      <Grid numItemsSm={2} numItemsLg={3} className="gap-6">
+      <Grid numItemsSm={2} numItemsLg={2} className="gap-6">
         {data.map((item) => (
           <Card key={item.category}>
             <Title>{item.category}</Title>
@@ -56,12 +67,11 @@ export default function PlaygroundPage() {
               alignItems="baseline"
               className="space-x-2"
             >
-              <Metric>{item.stat}</Metric>
-              <Text>Total views</Text>
+              
             </Flex>
             <Flex className="mt-6">
-              <Text>Pages</Text>
-              <Text className="text-right">Views</Text>
+              <Text>Categoria</Text>
+              <Text className="text-right">Quantidade</Text>
             </Flex>
             <BarList
               data={item.data}
@@ -70,10 +80,26 @@ export default function PlaygroundPage() {
               }
               className="mt-2"
             />
+            <div className='mt-5'>
+              {item.withPie ? (
+                <DonutChart data={item.data} variant="pie" />
+              ) : null}
+            </div>
           </Card>
         ))}
       </Grid>
-      <Chart />
+      <Chart
+        title={'Insights sobre participação na Vertical'}
+        headline={
+          'Nível de participação da empresa na vertical (excluindo empresas com 0 de participação)'
+        }
+        insights={ParticipacaoVerticalInsights}
+      />
+      <Chart
+        title={'Expectativas para Vertical'}
+        headline={'O que as empresas esperam da Vertical em 2024'}
+        insights={EsperaVerticalInsights}
+      />
     </main>
   );
 }

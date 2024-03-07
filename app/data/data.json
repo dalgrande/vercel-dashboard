@@ -1,0 +1,589 @@
+{
+    "companies": [
+      {
+        "Empresa": "Acme Innovations",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Aumentar a divulgação de conhecimento",
+        "Pautas_de_conhecimento_desejadas": "Conexão"
+      },
+      {
+        "Empresa": "Apogee Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 93,
+        "O_que_espera_da_Vertical_em_2024": "Conexão de negócio",
+        "Pautas_de_conhecimento_desejadas": "Rodada de CEOS"
+      },
+      {
+        "Empresa": "Archangel Industries",
+        "Segmentos": ["Comparadores", "Experiência dentro de loja", "Gestão de loja", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 76,
+        "O_que_espera_da_Vertical_em_2024": "Geração de negócios",
+        "Pautas_de_conhecimento_desejadas": "Banco de conhecimento"
+      },
+      {
+        "Empresa": "Ascend Solutions",
+        "Segmentos": ["Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 36,
+        "O_que_espera_da_Vertical_em_2024": "Negócios",
+        "Pautas_de_conhecimento_desejadas": "Benchmarking entre as empresas da vertical"
+      },
+      {
+        "Empresa": "Atlas Ventures",
+        "Segmentos": ["Gestão de loja"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 55,
+        "O_que_espera_da_Vertical_em_2024": "Conexões",
+        "Pautas_de_conhecimento_desejadas": "Catequisar e educar o mercado"
+      },
+      {
+        "Empresa": "Aurora Consulting",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente", "Marketing e CRM", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 82,
+        "O_que_espera_da_Vertical_em_2024": "Networking e entender as dores do mercado",
+        "Pautas_de_conhecimento_desejadas": "Conhecimento via blog"
+      },
+      {
+        "Empresa": "Avalon Corporation",
+        "Segmentos": ["Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Empresa de grande porte",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "MatchMaking",
+        "Pautas_de_conhecimento_desejadas": "Lista desafios do quarter de cada empresa e quem poderia ajudar"
+      },
+      {
+        "Empresa": "Azure Enterprises",
+        "Segmentos": ["Gestão de loja", "Plataformas e Ferramentas", "Pagamentos"],
+        "Tipo_de_empresa": "Empresa de médio porte",
+        "Nível_de_participação_na_Vertical": 39,
+        "O_que_espera_da_Vertical_em_2024": "Projeção Nacional",
+        "Pautas_de_conhecimento_desejadas": "Curadoria do conhecimento e conteúdo já gerado"
+      },
+      {
+        "Empresa": "Beacon Enterprises",
+        "Segmentos": ["Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 55,
+        "O_que_espera_da_Vertical_em_2024": "Network",
+        "Pautas_de_conhecimento_desejadas": "Encontros semanais para discutir dores e trocar conhecimento"
+      },
+      {
+        "Empresa": "Beyond Horizon",
+        "Segmentos": ["Gestão de loja"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 57,
+        "O_que_espera_da_Vertical_em_2024": "Mais negócios e participar ativamente da Vertical Varejo",
+        "Pautas_de_conhecimento_desejadas": "Evento dinâmicas com trocas"
+      },
+      {
+        "Empresa": "Blackbird Solutions",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias"],
+        "Tipo_de_empresa": "Empresa de médio porte",
+        "Nível_de_participação_na_Vertical": 68,
+        "O_que_espera_da_Vertical_em_2024": "Benchmarking com empresas da vertical",
+        "Pautas_de_conhecimento_desejadas": "Missões técnicas nacionais e internacionais"
+      },
+      {
+        "Empresa": "Blue Sky Enterprises",
+        "Segmentos": ["Marketing e CRM"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 5,
+        "O_que_espera_da_Vertical_em_2024": "Troca de conhecimento",
+        "Pautas_de_conhecimento_desejadas": "Dores do mercado"
+      },
+      {
+        "Empresa": "Bright Futures",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 76,
+        "O_que_espera_da_Vertical_em_2024": "Mais conexões e deu matches",
+        "Pautas_de_conhecimento_desejadas": "Mesa de troca de conhecimento e experiência com corporates"
+      },
+      {
+        "Empresa": "Celerity Enterprises",
+        "Segmentos": ["Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 80,
+        "O_que_espera_da_Vertical_em_2024": "Troca de conhecimento",
+        "Pautas_de_conhecimento_desejadas": "Funil de vendas"
+      },
+      {
+        "Empresa": "Centurion Solutions",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 79,
+        "O_que_espera_da_Vertical_em_2024": "Conexões de negócios",
+        "Pautas_de_conhecimento_desejadas": "Análise de dados"
+      },
+      {
+        "Empresa": "Clear Horizon",
+        "Segmentos": ["Fidelidade do cliente", "Marketing e CRM", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 76,
+        "O_que_espera_da_Vertical_em_2024": "Conexões visibilidade e interação com esse ecossistema incrível",
+        "Pautas_de_conhecimento_desejadas": "Estruturar infográficos sobre mercado de varejo"
+      },
+      {
+        "Empresa": "Cloud Nine Enterprises",
+        "Segmentos": ["Marketing e CRM", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 45,
+        "O_que_espera_da_Vertical_em_2024": "Interações",
+        "Pautas_de_conhecimento_desejadas": "Canais de discussão sobre dores comuns"
+      },
+      {
+        "Empresa": "Coastal Innovations",
+        "Segmentos": ["Plataformas e Ferramentas", "IoT", "Experiência dentro de loja"],
+        "Tipo_de_empresa": "Empresa de médio porte",
+        "Nível_de_participação_na_Vertical": 78,
+        "O_que_espera_da_Vertical_em_2024": "Fundo de investimento",
+        "Pautas_de_conhecimento_desejadas": "Conteúdo YouTube"
+      },
+      {
+        "Empresa": "Converge Solutions",
+        "Segmentos": ["Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 85,
+        "O_que_espera_da_Vertical_em_2024": "Rodadas de deu match entre os membros da vertical propondo a conexão entre as",
+        "Pautas_de_conhecimento_desejadas": "Mapear estágio e necessidade das associadas"
+      },
+      {
+        "Empresa": "Crescent Solutions",
+        "Segmentos": ["Gestão de loja", "Marketing e CRM"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 45,
+        "O_que_espera_da_Vertical_em_2024": "Conexão com varejistas, oportunidade de compartilhar conteúdos e cases de sucesso.",
+        "Pautas_de_conhecimento_desejadas": "Conteúdo blog"
+      },
+      {
+        "Empresa": "Crown Enterprises",
+        "Segmentos": ["Plataformas e Ferramentas", "Gestão de loja"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 50,
+        "O_que_espera_da_Vertical_em_2024": "Gerar venda com todas as conexões feitas",
+        "Pautas_de_conhecimento_desejadas": "Glossário de termos do varejo"
+      },
+      {
+        "Empresa": "Crystal Clear Solutions",
+        "Segmentos": ["Gestão de loja", "Big Data e Novas tecnologias", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 57,
+        "O_que_espera_da_Vertical_em_2024": "Conexões",
+        "Pautas_de_conhecimento_desejadas": "Ser autoridade em soluções para varejo em SC"
+      },
+      {
+        "Empresa": "Cyberlink Solutions",
+        "Segmentos": ["Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 90,
+        "O_que_espera_da_Vertical_em_2024": "Negócios",
+        "Pautas_de_conhecimento_desejadas": "Estratégia ABM"
+      },
+      {
+        "Empresa": "Cygnus Solutions",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Marketing e CRM"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Networking",
+        "Pautas_de_conhecimento_desejadas": "Vendas"
+      },
+      {
+        "Empresa": "Deep Blue Innovations",
+        "Segmentos": ["Marketing e CRM", "Logística", "Pagamentos", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Empresa de médio porte",
+        "Nível_de_participação_na_Vertical": 85,
+        "O_que_espera_da_Vertical_em_2024": "Conhecimento de mercado",
+        "Pautas_de_conhecimento_desejadas": "Estatísticas envolvendo associados"
+      },
+      {
+        "Empresa": "Delta Solutions",
+        "Segmentos": ["Fidelidade do cliente", "Plataformas e Ferramentas", "Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Estudo de cases",
+        "Pautas_de_conhecimento_desejadas": "Tecnologia de cada empresa da vertical"
+      },
+      {
+        "Empresa": "Eclipse Enterprises",
+        "Segmentos": ["Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 40,
+        "O_que_espera_da_Vertical_em_2024": "Soluções",
+        "Pautas_de_conhecimento_desejadas": "Criar subgrupos com modelos em comum"
+      },
+      {
+        "Empresa": "Element Enterprises",
+        "Segmentos": ["Gestão de loja", "Pagamentos", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 40,
+        "O_que_espera_da_Vertical_em_2024": "Muitas conexões",
+        "Pautas_de_conhecimento_desejadas": "Aumentar a divulgação de conhecimento"
+      },
+      {
+        "Empresa": "Elite Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Plataformas e Ferramentas", "Logística", "Marketing e CRM", "Big Data e Novas tecnologias"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 32,
+        "O_que_espera_da_Vertical_em_2024": "Networking",
+        "Pautas_de_conhecimento_desejadas": "Rodada de CEOS"
+      },
+      {
+        "Empresa": "Embrace Solutions",
+        "Segmentos": ["Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 10,
+        "O_que_espera_da_Vertical_em_2024": "Conexões",
+        "Pautas_de_conhecimento_desejadas": "Banco de conhecimento"
+      },
+      {
+        "Empresa": "Empower Solutions",
+        "Segmentos": ["Experiência dentro de loja", "Marketing e CRM", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 25,
+        "O_que_espera_da_Vertical_em_2024": "Fundo de investimento",
+        "Pautas_de_conhecimento_desejadas": "Benchmarking entre as empresas da vertical"
+      },
+      {
+        "Empresa": "Endurance Enterprises",
+        "Segmentos": ["Experiência dentro de loja", "IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente", "Pagamentos", "Marketing e CRM", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Novos negócios",
+        "Pautas_de_conhecimento_desejadas": "Catequisar e educar o mercado"
+      },
+      {
+        "Empresa": "Enigma Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias"],
+        "Tipo_de_empresa": "Empresa de médio porte",
+        "Nível_de_participação_na_Vertical": 44,
+        "O_que_espera_da_Vertical_em_2024": "Protagonismo de cada startup passa pelos conteúdos e conhecimento em eventos.",
+        "Pautas_de_conhecimento_desejadas": "Conhecimento via blog"
+      },
+      {
+        "Empresa": "Envision Enterprises",
+        "Segmentos": ["Pagamentos", "Marketing e CRM", "Logística", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Conhecimento de mercado",
+        "Pautas_de_conhecimento_desejadas": "MatchMaking"
+      },
+      {
+        "Empresa": "Eon Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Logística", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 38,
+        "O_que_espera_da_Vertical_em_2024": "Networking e entender as dores do mercado",
+        "Pautas_de_conhecimento_desejadas": "Curadoria do conhecimento e conteúdo já gerado"
+      },
+      {
+        "Empresa": "Equinox Solutions",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Logística", "Marketing e CRM", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 35,
+        "O_que_espera_da_Vertical_em_2024": "Network",
+        "Pautas_de_conhecimento_desejadas": "Encontros semanais para discutir dores e trocar conhecimento"
+      },
+      {
+        "Empresa": "Evoke Solutions",
+        "Segmentos": ["Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Mais negócios e participar ativamente da Vertical Varejo",
+        "Pautas_de_conhecimento_desejadas": "Benchmarking com empresas da vertical"
+      },
+      {
+        "Empresa": "Excalibur Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente"],
+        "Tipo_de_empresa": "Empresa de grande porte",
+        "Nível_de_participação_na_Vertical": 39,
+        "O_que_espera_da_Vertical_em_2024": "Conexões",
+        "Pautas_de_conhecimento_desejadas": "Evento dinâmicas com trocas"
+      },
+      {
+        "Empresa": "Exodus Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Empresa de médio porte",
+        "Nível_de_participação_na_Vertical": 66,
+        "O_que_espera_da_Vertical_em_2024": "Benchmarking com empresas da vertical",
+        "Pautas_de_conhecimento_desejadas": "Missões técnicas nacionais e internacionais"
+      },
+      {
+        "Empresa": "Express Solutions",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente", "Marketing e CRM", "Logística", "Plataformas e Ferramentas", "Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 55,
+        "O_que_espera_da_Vertical_em_2024": "Troca de conhecimento",
+        "Pautas_de_conhecimento_desejadas": "Dores do mercado"
+      },
+      {
+        "Empresa": "Falcon Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 66,
+        "O_que_espera_da_Vertical_em_2024": "Mais conexões e deu matches",
+        "Pautas_de_conhecimento_desejadas": "Mesa de troca de conhecimento e experiência com corporates"
+      },
+      {
+        "Empresa": "Frontier Solutions",
+        "Segmentos": ["Marketing e CRM", "Plataformas e Ferramentas", "Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 25,
+        "O_que_espera_da_Vertical_em_2024": "Troca de conhecimento",
+        "Pautas_de_conhecimento_desejadas": "Funil de vendas"
+      },
+      {
+        "Empresa": "Golden Horizon",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente", "Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Empresa de grande porte",
+        "Nível_de_participação_na_Vertical": 70,
+        "O_que_espera_da_Vertical_em_2024": "Conexões de negócios",
+        "Pautas_de_conhecimento_desejadas": "Análise de dados"
+      },
+      {
+        "Empresa": "Greenlight Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Marketing e CRM", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Pequena empresa",
+        "Nível_de_participação_na_Vertical": 36,
+        "O_que_espera_da_Vertical_em_2024": "Conexões visibilidade e interação com esse ecossistema incrível",
+        "Pautas_de_conhecimento_desejadas": "Estruturar infográficos sobre mercado de varejo"
+      },
+      {
+        "Empresa": "Horizon Solutions",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Plataformas e Ferramentas", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 75,
+        "O_que_espera_da_Vertical_em_2024": "Interações",
+        "Pautas_de_conhecimento_desejadas": "Canais de discussão sobre dores comuns"
+      },
+      {
+        "Empresa": "Infinity Solutions",
+        "Segmentos": ["Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 75,
+        "O_que_espera_da_Vertical_em_2024": "Fundo de investimento",
+        "Pautas_de_conhecimento_desejadas": "Conteúdo YouTube"
+      },
+      {
+        "Empresa": "Insight Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 42,
+        "O_que_espera_da_Vertical_em_2024": "Conexões",
+        "Pautas_de_conhecimento_desejadas": "Estratégia ABM"
+      },
+      {
+        "Empresa": "Inspire Solutions",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente", "Marketing e CRM"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 5,
+        "O_que_espera_da_Vertical_em_2024": "Networking",
+        "Pautas_de_conhecimento_desejadas": "Vendas"
+      },
+      {
+        "Empresa": "Integrity Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Plataformas e Ferramentas", "Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Conhecimento de mercado",
+        "Pautas_de_conhecimento_desejadas": "MatchMaking"
+      },
+      {
+        "Empresa": "Interstellar Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Logística", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Networking e entender as dores do mercado",
+        "Pautas_de_conhecimento_desejadas": "Curadoria do conhecimento e conteúdo já gerado"
+      },
+      {
+        "Empresa": "Invictus Solutions",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Logística", "Marketing e CRM", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Network",
+        "Pautas_de_conhecimento_desejadas": "Encontros semanais para discutir dores e trocar conhecimento"
+      },
+      {
+        "Empresa": "Jupiter Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Mais negócios e participar ativamente da Vertical Varejo",
+        "Pautas_de_conhecimento_desejadas": "Benchmarking com empresas da vertical"
+      },
+      {
+        "Empresa": "Lunar Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente", "Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Estudo de cases",
+        "Pautas_de_conhecimento_desejadas": "Tecnologia de cada empresa da vertical"
+      },
+      {
+        "Empresa": "Majestic Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Empresa de médio porte",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Protagonismo de cada startup passa pelos conteúdos e conhecimento em eventos.",
+        "Pautas_de_conhecimento_desejadas": "Conhecimento via blog"
+      },
+      {
+        "Empresa": "Mercury Solutions",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Empresa de grande porte",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Conhecimento de mercado",
+        "Pautas_de_conhecimento_desejadas": "MatchMaking"
+      },
+      {
+        "Empresa": "Nebula Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Plataformas e Ferramentas", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Networking e entender as dores do mercado",
+        "Pautas_de_conhecimento_desejadas": "Curadoria do conhecimento e conteúdo já gerado"
+      },
+      {
+        "Empresa": "Nova Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Marketing e CRM", "Plataformas e Ferramentas", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Network",
+        "Pautas_de_conhecimento_desejadas": "Encontros semanais para discutir dores e trocar conhecimento"
+      },
+      {
+        "Empresa": "Omega Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente", "Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Mais negócios e participar ativamente da Vertical Varejo",
+        "Pautas_de_conhecimento_desejadas": "Benchmarking com empresas da vertical"
+      },
+      {
+        "Empresa": "Orbit Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Empresa de médio porte",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Protagonismo de cada startup passa pelos conteúdos e conhecimento em eventos.",
+        "Pautas_de_conhecimento_desejadas": "Conhecimento via blog"
+      },
+      {
+        "Empresa": "Orion Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Empresa de grande porte",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Conhecimento de mercado",
+        "Pautas_de_conhecimento_desejadas": "MatchMaking"
+      },
+      {
+        "Empresa": "Polaris Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Plataformas e Ferramentas", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Networking e entender as dores do mercado",
+        "Pautas_de_conhecimento_desejadas": "Curadoria do conhecimento e conteúdo já gerado"
+      },
+      {
+        "Empresa": "Prime Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Marketing e CRM", "Plataformas e Ferramentas", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Network",
+        "Pautas_de_conhecimento_desejadas": "Encontros semanais para discutir dores e trocar conhecimento"
+      },
+      {
+        "Empresa": "Quantum Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente", "Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Mais negócios e participar ativamente da Vertical Varejo",
+        "Pautas_de_conhecimento_desejadas": "Benchmarking com empresas da vertical"
+      },
+      {
+        "Empresa": "Radiant Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Empresa de médio porte",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Protagonismo de cada startup passa pelos conteúdos e conhecimento em eventos.",
+        "Pautas_de_conhecimento_desejadas": "Conhecimento via blog"
+      },
+      {
+        "Empresa": "Spectrum Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Empresa de grande porte",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Conhecimento de mercado",
+        "Pautas_de_conhecimento_desejadas": "MatchMaking"
+      },
+      {
+        "Empresa": "Stellar Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Plataformas e Ferramentas", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Networking e entender as dores do mercado",
+        "Pautas_de_conhecimento_desejadas": "Curadoria do conhecimento e conteúdo já gerado"
+      },
+      {
+        "Empresa": "Supreme Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Marketing e CRM", "Plataformas e Ferramentas", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Network",
+        "Pautas_de_conhecimento_desejadas": "Encontros semanais para discutir dores e trocar conhecimento"
+      },
+      {
+        "Empresa": "Titan Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente", "Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Mais negócios e participar ativamente da Vertical Varejo",
+        "Pautas_de_conhecimento_desejadas": "Benchmarking com empresas da vertical"
+      },
+      {
+        "Empresa": "Triumph Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Plataformas e Ferramentas"],
+        "Tipo_de_empresa": "Empresa de médio porte",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Protagonismo de cada startup passa pelos conteúdos e conhecimento em eventos.",
+        "Pautas_de_conhecimento_desejadas": "Conhecimento via blog"
+      },
+      {
+        "Empresa": "Utopia Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Empresa de grande porte",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Conhecimento de mercado",
+        "Pautas_de_conhecimento_desejadas": "MatchMaking"
+      },
+      {
+        "Empresa": "Vanguard Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Plataformas e Ferramentas", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Networking e entender as dores do mercado",
+        "Pautas_de_conhecimento_desejadas": "Curadoria do conhecimento e conteúdo já gerado"
+      },
+      {
+        "Empresa": "Visionary Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Gestão de loja", "Marketing e CRM", "Plataformas e Ferramentas", "Logística"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Network",
+        "Pautas_de_conhecimento_desejadas": "Encontros semanais para discutir dores e trocar conhecimento"
+      },
+      {
+        "Empresa": "Zenith Enterprises",
+        "Segmentos": ["IoT", "Big Data e Novas tecnologias", "Fidelidade do cliente", "Marketing e CRM", "Plataformas e Ferramentas", "Logística", "Pagamentos"],
+        "Tipo_de_empresa": "Startup",
+        "Nível_de_participação_na_Vertical": 0,
+        "O_que_espera_da_Vertical_em_2024": "Mais negócios e participar ativamente da Vertical Varejo",
+        "Pautas_de_conhecimento_desejadas": "Benchmarking com empresas da vertical"
+      }
+    ]
+  }
+  
