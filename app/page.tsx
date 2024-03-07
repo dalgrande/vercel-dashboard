@@ -61,11 +61,7 @@ export default function PlaygroundPage() {
         {data.map((item) => (
           <Card key={item.category}>
             <Title>{item.category}</Title>
-            <Flex
-              justifyContent="start"
-              alignItems="baseline"
-              className="space-x-2"
-            ></Flex>
+           
             <Flex className="mt-6">
               <Text>Categoria</Text>
               <Text className="text-right">Quantidade</Text>
